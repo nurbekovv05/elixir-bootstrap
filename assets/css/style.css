@@ -74,3 +74,9 @@ img{
     border-color: var(--c-brand-light);
     color: white;
 }
+
+/*hero*/
+#hero{
+    background: linear-gradient(rgba(0,0,0, 0.507), rgba(0,0,0, 0.438)),  url(../images/hero-1.jpg) center;
+    background-size: cover;
+}
